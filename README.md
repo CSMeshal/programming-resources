@@ -26,3 +26,15 @@
 4-ORM: Prisma
 
 5-DB: Postgres
+
+
+
+
+##
+
+
+
+## 
+
+
+![Screenshot ](https://user-images.githubusercontent.com/102235744/174725403-75f11194-f3f0-49e4-975f-d2f3072526e8.png)
