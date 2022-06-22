@@ -1,16 +1,31 @@
-# chat-api
+# School management
 
 ## Features
 
-1-Login
+1-eatures
 
-2-Update chat
+2-Add courses
 
-3-View all chat
+3-add students
 
-4-searching for chat
+4-Create a study schedule
 
-5-creat profile
+5-Sending individual messages
+
+6-Sending group messages
+
+7-building management
+
+8-Newsletters
+
+9-Sending emergency alerts/notification
+
+10-Students attendance management
+
+12-School directory
+
+13-School calendar
+
 
 
 
@@ -19,7 +34,7 @@
 ## Stack
 1-Runtime Environment: Node.js
 
-2-Language: JavaScript
+2-Language: TypeScript
 
 3-Web Server: Fastify
 
@@ -36,5 +51,5 @@
 
 ## 
 
+![student](https://user-images.githubusercontent.com/102235744/174955293-80a1cdb6-a920-4415-80dd-1c2c6a4b7247.png)
 
-![Screenshot ](https://user-images.githubusercontent.com/102235744/174725403-75f11194-f3f0-49e4-975f-d2f3072526e8.png)
