@@ -5,16 +5,27 @@ The user requests resources to learn programming or programming challenges sites
 
 ## Features
 1-Login 
+
 2-The ability to register on the site
+ 
+3-A blog containing resources to learn programming
+
 3-Video sources
+
 4-Articles sources
+
 5-Book sources
-6-Video sources
-7- Ability to view all sources
-8-The ability to choose sources
-9-The ability to switch between sources
-10-If he is registered on the site, he can add a source
-11-Comment on the sources
+
+
+6- Ability to view all sources
+
+7-The ability to choose sources
+
+8-The ability to switch between sources
+
+9-If he is registered on the site, he can add a source
+
+10-Comment on the sources
 
 ## Stack
 
@@ -22,9 +33,9 @@ The user requests resources to learn programming or programming challenges sites
 
 2-Language: TypeScript
 
-3-Web Server: express
+3-Web Server: Fastiyfi
 
-4-ORM: mongoose 
+4-ORM: Prisma 
 
 5-DB: mongodb
 
